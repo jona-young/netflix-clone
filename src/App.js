@@ -5,6 +5,8 @@ import requests from "./requests.js";
 import Banner from "./Banner.js";
 import Nav from "./Nav.js";
 
+/* 2:43:41 https://www.youtube.com/watch?v=XtMThy8QKqU */
+
 function App() {
   return (
     <div className="app">
